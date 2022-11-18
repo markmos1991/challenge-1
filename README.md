@@ -1,2 +1,2 @@
-# Rafactor Challenge
+# refactor-horiseon-1
 bootcamp week 1 challenge - refactor
