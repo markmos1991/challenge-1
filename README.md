@@ -1,2 +1,2 @@
-# challenge-1
+# Rafactor Challenge
 bootcamp week 1 challenge - refactor
